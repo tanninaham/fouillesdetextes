@@ -12,7 +12,7 @@ Reggae : 75 chansons/fichiers
 - AZLyrics : 12 chansons
 - LyricFind : 8 chansons
 
-> Tannina : 37 fichiers
+> Tannina : 39 fichiers
 
 Soul : 75 chansons/fichiers (Tannina)
 
