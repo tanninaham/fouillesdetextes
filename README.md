@@ -3,7 +3,7 @@
 Pop : 75 chansons/fichiers (Gemma)
 - MusixMatch : 28 chansons
 - AZLyrics : 20 chansons
-- LyricFind : 21 chansons
+- LyricFind : 20 chansons
 - Genius : 6 chansons
 
 Reggae : 75 chansons/fichiers
