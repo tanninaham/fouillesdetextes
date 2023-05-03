@@ -8,6 +8,9 @@ Pop : 75 chansons/fichiers (Gemma)
 
 Reggae : 75 chansons/fichiers
 > Gemma : 38 fichiers
+- MuzixMatch : 18 chansons
+- AZLyrics : 12 chansons
+- LyricFind : 8 chansons
 
 > Tannina : 37 fichiers
 
