@@ -1,6 +1,10 @@
 # fouillesdetextes
 
 Pop : 75 chansons/fichiers (Gemma)
+- MusixMatch : 28 chansons
+- AZLyrics : 20 chansons
+- LyricFind : 21 chansons
+- Genius : 6 chansons
 
 Reggae : 75 chansons/fichiers
 > Gemma : 38 fichiers
