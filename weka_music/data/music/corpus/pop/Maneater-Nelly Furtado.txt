@@ -1,4 +1,4 @@
-"Maneater"
+@"Maneater"
 
 Take it back, take it back, take it back
 Oh oh oh ah oh
