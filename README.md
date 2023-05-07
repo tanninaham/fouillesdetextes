@@ -41,8 +41,8 @@ Soul : 75 chansons/fichiers (Tannina)
 
 2. Lancer le script vectorisation.py dans le terminal 
 	
-	 python3 ./vectorisation.py -h
 	 python3 ./vectorisation.py data/music/corpus music-comptes.arff
+	 &nbsp;
 	 python3 ./vectorisation.py data/music/corpus music-booleen.arff --boolean
 	 
 	 3. Dans Weka
