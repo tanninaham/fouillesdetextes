@@ -1,5 +1,10 @@
 # fouillesdetextes
 
+Bienvenue sur notre page du projet de classification sur Weka 😄
+
+
+## Projet 
+
 Pop : 75 chansons/fichiers (Gemma)
 - MusixMatch : 28 chansons
 - AZLyrics : 20 chansons
