@@ -12,14 +12,17 @@ Pop : 75 chansons/fichiers (Gemma)
 - Genius : 6 chansons
 
 Reggae : 75 chansons/fichiers
-> Gemma : 36 fichiers
-- MuzixMatch : 18 chansons
+> Gemma : 38 fichiers
+- MuzixMatch : 16 chansons
 - AZLyrics : 12 chansons
 - LyricFind : 8 chansons
 
-> Tannina : 39 fichiers
+> Tannina : 37 fichiers
+- Genuis : 37 chansons
 
 Soul : 75 chansons/fichiers (Tannina)
+- MusixMatch : 39 chansons
+- Genuis : 36 chansons
 
 
 # PARTIE WEKA
@@ -40,10 +43,10 @@ Soul : 75 chansons/fichiers (Tannina)
 		- fichier-resultat.arff
 
 2. Lancer le script vectorisation.py dans le terminal 
-	
-	 python3 ./vectorisation.py data/music/corpus music-comptes.arff
-	 &nbsp;
-	 python3 ./vectorisation.py data/music/corpus music-booleen.arff --boolean
+
+  - python3 ./vectorisation.py data/music/corpus music-comptes.arff
+	 
+  - python3 ./vectorisation.py data/music/corpus music-booleen.arff --boolean
 	 
 	 3. Dans Weka
 	
